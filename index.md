@@ -2,7 +2,10 @@
 
 I am a Computer Science Student at Cal State Fullerton, and I expect to graduate in 2027
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+My GitHub page is http://github.com/ernj05
+
+### Favorite CPSC 120L Labs
 * Lab 5, part 2
 
   This lab was cool because we had to convert feet to inches. This was cool because we made a calculator, which we can use for real-life situations. It helped us understand how to convert decimals into integers using static_cast.

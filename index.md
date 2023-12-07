@@ -1,6 +1,6 @@
 # Ernie Sena's Portfolio
 
-Hello my name is Ernie Sena and I am a Computer Science Student at Cal State Fullerton, and I expect to graduate in 2027
+Hello my name is Ernie Sena and I am a Computer Science major at Cal State Fullerton, and I expect to graduate in 2027
 
 ## Computer Science Projects
 My GitHub page is http://github.com/ernj05

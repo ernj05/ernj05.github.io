@@ -1,6 +1,6 @@
 # Ernie Sena's Portfolio
 
-I am a Computer Science Student and I expect to graduat in 2027
+I am a Computer Science Student, and I expect to graduate in 2027
 
 ## Favorite CPSC 120L Labs
 * Lab 5, part 2
